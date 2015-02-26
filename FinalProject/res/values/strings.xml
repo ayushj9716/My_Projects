@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn1str">New Registration</string>
+    <string name="btn2str">Registered Students</string>
+    <string name="button1str">Take  Pic</string>
+    <string name="button2str">SUBMIT</string>
+    <string name="M3_button1str">Main Menu</string>
+
+</resources>
